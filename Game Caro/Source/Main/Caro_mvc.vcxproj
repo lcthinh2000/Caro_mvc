@@ -141,13 +141,21 @@
   <ItemGroup>
     <ClCompile Include="boardmodel.cpp" />
     <ClCompile Include="Caro_mvc.cpp" />
+    <ClCompile Include="client.cpp" />
     <ClCompile Include="controller.cpp" />
+    <ClCompile Include="funcfile.cpp" />
+    <ClCompile Include="helper.cpp" />
+    <ClCompile Include="listaccount.cpp" />
     <ClCompile Include="playermodel.cpp" />
     <ClCompile Include="view.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="boardmodel.h" />
+    <ClInclude Include="client.h" />
     <ClInclude Include="controller.h" />
+    <ClInclude Include="funcfile.h" />
+    <ClInclude Include="helper.h" />
+    <ClInclude Include="listaccount.h" />
     <ClInclude Include="playermodel.h" />
     <ClInclude Include="view.h" />
   </ItemGroup>
